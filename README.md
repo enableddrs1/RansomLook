@@ -393,6 +393,8 @@ Copyright (C) 2026 [Katya Kandratovich](https://www.linkedin.com/in/katya-k-4401
 
 Copyright (C) 2022-2026 [CERT-AG](https://cert-ag.com/) - CERT AG
 
+Copyright (C) 2026 [Bitshadow](https://x.com/fbgwls245)
+
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
 by the Free Software Foundation, either version 3 of the License, or
